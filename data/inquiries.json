@@ -1,0 +1,24 @@
+[
+  {
+    "id": "inq_1791253506131_vhyr9",
+    "name": "smith",
+    "email": "adcde@gmail.com",
+    "agency": "youtube",
+    "service": "YouTube Video (Long Form)",
+    "budget": "$150 - $350 (Single)",
+    "message": "hi",
+    "createdAt": "2026-10-06T02:25:06.131Z",
+    "status": "new"
+  },
+  {
+    "id": "inq_1791091576421_ue6z5",
+    "name": "adam",
+    "email": "abcd@gmail.com",
+    "agency": "youtube",
+    "service": "YouTube Video (Long Form)",
+    "budget": "$350 - $750 (Multi-Pack)",
+    "message": "hi",
+    "createdAt": "2026-10-04T05:26:16.421Z",
+    "status": "new"
+  }
+]

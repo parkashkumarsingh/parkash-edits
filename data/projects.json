@@ -1,0 +1,785 @@
+[
+  {
+    "type": "graphic",
+    "category": "Social Media Posts & Banners",
+    "title": "LAYER 2",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "dimensions": "01:00",
+    "aspectRatio": "1:1 Square",
+    "mediaUrl": "/uploads/1791088377720_Layer_2.png",
+    "poster": "/uploads/1791088377720_Layer_2.png",
+    "description": "Commissioned portfolio showcase project.",
+    "challenge": "High precision aesthetic and technical execution.",
+    "solution": "End-to-end custom pipeline.",
+    "mockupType": "pedestal",
+    "featured": true,
+    "tags": [
+      "Adobe Premiere Pro",
+      "After Effects"
+    ],
+    "techSpecs": {
+      "pipeline": "Native ACES / High-Res Native Hosting",
+      "software": [
+        "Adobe Premiere Pro",
+        "After Effects"
+      ],
+      "deliverables": [
+        "1080p / 4K Master",
+        "Social Deliverables"
+      ]
+    },
+    "id": "proj_1791088380362_dviib",
+    "uploadedAt": "2026-10-04T04:33:00.362Z"
+  },
+  {
+    "type": "graphic",
+    "category": "Social Media Posts & Banners",
+    "title": "CHATGPT IMAGE OCT 4, 2026, 09 51 57 AM",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "dimensions": "01:00",
+    "aspectRatio": "1:1 Square",
+    "mediaUrl": "/uploads/1791087789880_ChatGPT_Image_Oct_4__2026__09_51_57_AM.png",
+    "poster": "/uploads/1791087789880_ChatGPT_Image_Oct_4__2026__09_51_57_AM.png",
+    "description": "Commissioned portfolio showcase project.",
+    "challenge": "High precision aesthetic and technical execution.",
+    "solution": "End-to-end custom pipeline.",
+    "mockupType": "pedestal",
+    "featured": true,
+    "tags": [
+      "Adobe Premiere Pro",
+      "After Effects"
+    ],
+    "techSpecs": {
+      "pipeline": "Native ACES / High-Res Native Hosting",
+      "software": [
+        "Adobe Premiere Pro",
+        "After Effects"
+      ],
+      "deliverables": [
+        "1080p / 4K Master",
+        "Social Deliverables"
+      ]
+    },
+    "id": "proj_1791087795700_ecahb",
+    "uploadedAt": "2026-10-04T04:23:15.700Z"
+  },
+  {
+    "type": "video",
+    "category": "Commercials & Brand Ads",
+    "title": "Commercial Product Promo 4K",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:00",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "/uploads/1790931755503_16910428_3840_2160_30fps__1_.mp4",
+    "mediaUrl": "/uploads/1790931755503_16910428_3840_2160_30fps__1_.mp4",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "featured": true,
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "id": "proj_1790931757515_kc8l6",
+    "uploadedAt": "2026-10-02T09:02:37.515Z"
+  },
+  {
+    "type": "video",
+    "category": "YouTube Videos & Long Form",
+    "title": "Cinematic YouTube Travel Cut",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:00",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "/uploads/1790931740180_16870060_1920_1080_24fps.mp4",
+    "mediaUrl": "/uploads/1790931740180_16870060_1920_1080_24fps.mp4",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "featured": true,
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "id": "proj_1790931741597_vb4wx",
+    "uploadedAt": "2026-10-02T09:02:21.597Z"
+  },
+  {
+    "type": "video",
+    "category": "Motion Graphics & Title Animations",
+    "title": "High-Energy Social Media Reel",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:00",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "/uploads/1790931645972_15307802_1080_1920_30fps__1_.mp4",
+    "mediaUrl": "/uploads/1790931645972_15307802_1080_1920_30fps__1_.mp4",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "featured": true,
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "id": "proj_1790931648933_71rt7",
+    "uploadedAt": "2026-10-02T09:00:48.933Z"
+  },
+  {
+    "type": "video",
+    "category": "Commercials & Brand Ads",
+    "title": "Zero Arc Streetwear Reel Promo",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:00",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "/uploads/1790930834359_1790915235553_zero_arc_one_punch_man_tee_ad.mp4",
+    "mediaUrl": "/uploads/1790930834359_1790915235553_zero_arc_one_punch_man_tee_ad.mp4",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "featured": true,
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "id": "proj_1790930841664_cilue",
+    "uploadedAt": "2026-10-02T08:47:21.664Z"
+  },
+  {
+    "type": "video",
+    "category": "Commercials & Brand Ads",
+    "title": "Brand Showcase Commercial Edit",
+    "client": "Studio Commission",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:00",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "/uploads/1790930780030_1790915235553_zero_arc_one_punch_man_tee_ad.mp4",
+    "mediaUrl": "/uploads/1790930780030_1790915235553_zero_arc_one_punch_man_tee_ad.mp4",
+    "poster": "/uploads/1790930784824_Screenshot_2026-10-02_100718.png",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "featured": true,
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "id": "proj_1790930808490_38oee",
+    "uploadedAt": "2026-10-02T08:46:48.490Z"
+  },
+  {
+    "type": "video",
+    "category": "Commercials & Brand Ads",
+    "title": "Streetwear Brand Commercial Ad",
+    "client": "ZERO ARC APPAREL",
+    "year": "2026",
+    "role": "Video Editor & Motion Designer",
+    "duration": "00:45",
+    "aspectRatio": "9:16 Vertical Reel",
+    "videoUrl": "/uploads/1790915235553_zero_arc_one_punch_man_tee_ad.mp4",
+    "mediaUrl": "/uploads/1790915235553_zero_arc_one_punch_man_tee_ad.mp4",
+    "poster": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "featured": true,
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "id": "proj_1790915235747_u9rin",
+    "uploadedAt": "2026-10-02T04:27:15.747Z"
+  },
+  {
+    "id": "blender-cyberpunk-drift",
+    "type": "video",
+    "title": "Neon Drift // Cinematic Motion Video",
+    "client": "RED BULL RACING x CD PROJEKT",
+    "year": "2026",
+    "category": "Motion Graphics & Title Animations",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:15",
+    "aspectRatio": "2.39:1 Cinemascope",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "awards": [
+      "Vimeo Staff Pick",
+      "Blender Artists Featured Artwork"
+    ],
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "ae-kinetic-matrix",
+    "type": "video",
+    "title": "Kinetic Motion Typography & Titles",
+    "client": "OPENAI // DEVBUILD 2026",
+    "year": "2026",
+    "category": "Motion Graphics & Title Animations",
+    "role": "Video Editor & Motion Designer",
+    "duration": "00:45",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "poster": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "awards": [
+      "Motionographer Feature",
+      "Type Directors Club Excellence"
+    ],
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "premiere-hyper-rhythm",
+    "type": "video",
+    "title": "High-Energy Commercial Beat Cut",
+    "client": "NIKE GLOBAL RUNNING",
+    "year": "2025",
+    "category": "Commercials & Brand Ads",
+    "role": "Video Editor & Motion Designer",
+    "duration": "00:30",
+    "aspectRatio": "16:9 Broadcast",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "poster": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "awards": [
+      "Clio Sports Gold: Best Editing",
+      "Cannes Lions Shortlist"
+    ],
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "ai-commercial-couture",
+    "type": "video",
+    "title": "Fashion Lookbook // Narrative Edit",
+    "client": "BALENCIAGA x RUNWAY GEN-3",
+    "year": "2026",
+    "category": "YouTube Videos & Long Form",
+    "role": "Video Editor & Motion Designer",
+    "duration": "01:00",
+    "aspectRatio": "2.39:1 Cinemascope",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+    "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+    "poster": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80",
+    "description": "Engaging video edit with clean cuts, custom motion graphics, and punchy sound design.",
+    "challenge": "Capturing viewer attention in the first 3 seconds and maintaining strong retention.",
+    "solution": "Seamless pacing, dynamic zoom transitions, kinetic captions, and sound effects.",
+    "techSpecs": {
+      "pipeline": "Full HD / 4K Native Video Post-Production",
+      "software": [
+        "Adobe Premiere Pro",
+        "Adobe After Effects"
+      ],
+      "deliverables": [
+        "4K ProRes Master",
+        "Social Media 9:16 Cut",
+        "Web H.264 Version"
+      ]
+    },
+    "awards": [
+      "AI Film Festival Grand Prix",
+      "FWA Site of the Day"
+    ],
+    "tags": [
+      "Video Editing",
+      "Motion Graphics",
+      "Premiere Pro",
+      "After Effects",
+      "Sound Design"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "graphic-monolith-logo",
+    "type": "graphic",
+    "title": "Monolith Audio // Brand Logo & Identity",
+    "client": "MONOLITH LABS BERLIN",
+    "year": "2026",
+    "category": "Brand Identity & Logos",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "Vector SVG + 8K Master Renders",
+    "aspectRatio": "1:1 Square",
+    "mediaUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "awards": [
+      "Brand New Awards Best Identity",
+      "D&AD Pencil Shortlist"
+    ],
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "graphic-social-kinetic-post",
+    "type": "graphic",
+    "title": "Social Media Carousel & Banner Designs",
+    "client": "NEO-TOKYO DIGITAL / METAPHYZIK",
+    "year": "2026",
+    "category": "Social Media Posts & Banners",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "1080 x 1080 (Crafted at 4K)",
+    "aspectRatio": "1:1 Square (Social Feed)",
+    "mediaUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "graphic-other-artwork-sculpt",
+    "type": "graphic",
+    "title": "Synapse // Digital Art & Poster Design",
+    "client": "SOLO EXHIBITION // TOKYO 2026",
+    "year": "2026",
+    "category": "Other Creative Artwork",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "Fine Art 300 DPI // 24x30 inches",
+    "aspectRatio": "4:5 Portrait",
+    "mediaUrl": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "graphic-streetwear-void",
+    "type": "graphic",
+    "title": "Streetwear Social Media Promo Graphic",
+    "client": "ARCHIVE / KABUKICHO TOKYO",
+    "year": "2026",
+    "category": "Social Media Posts & Banners",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "Print 300 DPI // 16x20 inches",
+    "aspectRatio": "4:5 Vertical",
+    "mediaUrl": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "awards": [
+      "ComplexCon Best Graphic Drop",
+      "Hypebeast Featured Archive"
+    ],
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": true,
+    "mockupType": "apparel"
+  },
+  {
+    "id": "graphic-product-aura-prism",
+    "type": "graphic",
+    "title": "Aura Prism // Brand Visual Poster",
+    "client": "L'ORÉAL LUXE // AURA SCIENTIFIC",
+    "year": "2025",
+    "category": "Other Creative Artwork",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "8K UHD Render (7680 x 4320)",
+    "aspectRatio": "16:9 Landscape",
+    "mediaUrl": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "awards": [
+      "Behance Packaging Design Medal",
+      "Render Weekly Best in Show"
+    ],
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": true,
+    "mockupType": "pedestal"
+  },
+  {
+    "id": "graphic-pop-stickers",
+    "type": "graphic",
+    "title": "Creative Sticker Pack & Vector Art",
+    "client": "TOKYO TOY CLUB x SUPERCELL",
+    "year": "2026",
+    "category": "Other Creative Artwork",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "Die-Cut Vectors // 300 DPI",
+    "aspectRatio": "1:1 Square",
+    "mediaUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "awards": [
+      "Tokyo Design Festa Fan Favorite",
+      "Society of Illustrators Selected"
+    ],
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": false,
+    "mockupType": "sticker"
+  },
+  {
+    "id": "graphic-youtube-thumbnail",
+    "type": "graphic",
+    "title": "High-CTR YouTube Thumbnails & Graphics",
+    "client": "MRBEAST & ALI-A NETWORK",
+    "year": "2025",
+    "category": "YouTube Thumbnails",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "1280 x 720 (Crafted at 4K 3840x2160)",
+    "aspectRatio": "16:9 Broadcast",
+    "mediaUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "awards": [
+      "Creator Economy Best Visual Design 2025"
+    ],
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": false,
+    "mockupType": "print"
+  },
+  {
+    "id": "graphic-supplement-packaging",
+    "type": "graphic",
+    "title": "Neuro-Ignite // Brand Identity & Label Design",
+    "client": "SYNAPSE BIOTECH SAN FRANCISCO",
+    "year": "2026",
+    "category": "Brand Identity & Logos",
+    "role": "Graphic & Brand Designer",
+    "dimensions": "Die-Line 360 Wrap // 300 DPI",
+    "aspectRatio": "1:1 Square",
+    "mediaUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1600&q=85",
+    "poster": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1200&q=80",
+    "description": "Clean visual design crafted for high engagement across social platforms and branding.",
+    "challenge": "Creating a bold, instantly recognizable visual hierarchy that stands out in crowded feeds.",
+    "solution": "Custom typography, high-contrast color palette, and polished layout composition.",
+    "techSpecs": {
+      "pipeline": "Vector & High-Resolution Master Export",
+      "software": [
+        "Adobe Photoshop",
+        "Adobe Illustrator"
+      ],
+      "deliverables": [
+        "High-Res PNG/JPG",
+        "Vector SVG/EPS",
+        "Source PSD Files"
+      ]
+    },
+    "awards": [
+      "Dieline Awards Top Nutrition Packaging",
+      "Pentawards Bronze 2026"
+    ],
+    "tags": [
+      "Graphic Design",
+      "Social Media",
+      "Photoshop",
+      "Illustrator",
+      "Branding"
+    ],
+    "featured": true,
+    "mockupType": "packaging"
+  }
+]

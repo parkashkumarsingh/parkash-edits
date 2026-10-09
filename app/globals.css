@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #050508;
+  --foreground: #f3f3f6;
+  --cinema-red: #ff3b1e;
+  --cinema-cyan: #00e5ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #050508;
+  color: #f3f3f6;
+}
+
+body {
+  background-color: #050508;
+  color: #f3f3f6;
+  overflow-x: hidden;
+  selection-background-color: #ff3b1e;
+  selection-color: #ffffff;
+}
+
+::selection {
+  background: rgba(255, 59, 30, 0.4);
+  color: #ffffff;
+}
+
+/* Custom Cinema Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #08080c;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #232533;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ff3b1e;
+}
+
+/* Film Grain Texture Overlay */
+.film-grain {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 9998;
+  opacity: 0.045;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}
+
+/* Scanline Overlay */
+.scanline-grid {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%, 
+    rgba(0, 0, 0, 0.25) 50%
+  ), linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 0.03),
+    rgba(0, 255, 0, 0.01),
+    rgba(0, 0, 255, 0.03)
+  );
+  background-size: 100% 4px, 6px 100%;
+  pointer-events: none;
+}
+
+/* Glassmorphism Surface */
+.glass-panel {
+  background: rgba(14, 15, 22, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-panel-hover:hover {
+  background: rgba(20, 22, 32, 0.85);
+  border-color: rgba(255, 255, 255, 0.18);
+  box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.7), 0 0 25px -5px rgba(255, 59, 30, 0.12);
+}
+
+/* Cinematic Glow Utilities */
+.glow-red {
+  box-shadow: 0 0 25px -3px rgba(255, 59, 30, 0.35);
+}
+
+.glow-cyan {
+  box-shadow: 0 0 25px -3px rgba(0, 229, 255, 0.35);
+}
+
+.glow-text-red {
+  text-shadow: 0 0 20px rgba(255, 59, 30, 0.6);
+}
+
+/* Letterbox Aspect Ratios */
+.aspect-cinemascope {
+  aspect-ratio: 2.39 / 1;
+}
+
+.aspect-imax {
+  aspect-ratio: 1.43 / 1;
+}
+
+.aspect-anamorphic {
+  aspect-ratio: 2.35 / 1;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
